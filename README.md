@@ -1,3 +1,2 @@
 # ProyectoPOO2
-No funciona esta cosa que coraje
-Por tercera vez
+No funciona esta cosa que coraje 23 
