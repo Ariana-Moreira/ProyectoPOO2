@@ -1,3 +1,3 @@
 # ProyectoPOO2
-Segunda parte del proyecto con Android
-Sincronizando
+No funciona esta cosa que coraje
+Por tercera vez
