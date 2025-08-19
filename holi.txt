@@ -1,1 +1,5 @@
-que tal estas 
+class calculadora{
+    sumar(a,b){
+        return a+b;
+    }
+} 
